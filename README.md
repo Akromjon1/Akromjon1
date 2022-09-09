@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking for help with **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://creative-yeot-bc13a8.netlify.app](https://creative-yeot-bc13a8.netlify.app)
+- 👨‍💻 All of my projects are available at [https://akromjonakhmadjonov.netlify.app](https://akromjonakhmadjonov.netlify.app)
 
 - 💬 Ask me about **Dart, Flutter, HTML, CSS, JavaScript, Java, VueJS, C, C++**
 
 - 📫 How to reach me **mobileappd3v3lop3r@gmail.com**
 
-- 📄 Know about my experiences [https://creative-yeot-bc13a8.netlify.app](https://creative-yeot-bc13a8.netlify.app)
+- 📄 Know about my experiences [https://akromjonakhmadjonov.netlify.app](https://akromjonakhmadjonov.netlify.app)
 
 - ⚡ Fun fact **Sociable, Hard worker, Twice thinker**
 
